@@ -15,7 +15,7 @@ body {
 .nav {
     display: flex;
     justify-content: space-between;
-    margin: 0 30%;
+    margin: 0 15%;
 }
 
 .nav .logo {
@@ -25,5 +25,13 @@ body {
 
 .nav .nav-links {
     font-size: 18px;
+    color: #E5E7EB;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
     color: #E5E7EB;
 }
