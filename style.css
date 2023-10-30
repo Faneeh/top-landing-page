@@ -60,3 +60,7 @@ a:link {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.hero-section .button {
+    width: 1%;
+}
