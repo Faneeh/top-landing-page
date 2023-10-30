@@ -81,5 +81,7 @@ a:link {
 }
 
 .box-section {
+    margin: 10% 0;
     background-color: #FFFFFF;
+    width: 100%;
 }
