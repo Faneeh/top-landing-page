@@ -81,7 +81,7 @@ a:link {
 }
 
 .box-section {
-    margin: 10% 0;
+    margin-top: 10%;
     background-color: #FFFFFF;
     width: 100%;
 }
@@ -115,4 +115,5 @@ a:link {
 }
 .quote-section {
     background-color: #E5E7EB;
+    margin-top: -1%;
 }
