@@ -50,3 +50,8 @@ a:link {
     font-weight: bolder;
     color: #F9FAF8;
 }
+
+.hero-section .sub{
+    font-size: 18px;
+    color: #E5E7EB;
+}
