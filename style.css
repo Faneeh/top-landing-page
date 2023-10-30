@@ -40,3 +40,7 @@ a {
 a:link {
     color: #E5E7EB;
 }
+
+.hero-section {
+    margin: 7% 15%;
+}
