@@ -99,6 +99,7 @@ a:link {
     display: flex;
     justify-content: space-between;
     margin: 1% 15%;
+    height: 30vh;
 }
 
 .box .square {
@@ -111,4 +112,7 @@ a:link {
 .box .sub-text {
     width: 80%;
     margin-top: 2%;
+}
+.quote-section {
+    background-color: #E5E7EB;
 }
