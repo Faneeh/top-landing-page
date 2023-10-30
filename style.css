@@ -62,5 +62,9 @@ a:link {
 }
 
 .hero-section .button {
-    width: 1%;
+    width: 25%;
+    height: 125%;
+    border-radius: 10%;
+    background-color: #3B82F6;
+    color: #F9FAF8;
 }
