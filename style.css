@@ -98,7 +98,7 @@ a:link {
 .boxes {
     display: flex;
     justify-content: space-between;
-    margin: 0 15%;
+    margin: 1% 15%;
 }
 
 .box .square {
