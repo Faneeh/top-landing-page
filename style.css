@@ -43,6 +43,8 @@ a:link {
 
 .hero-section {
     margin: 7% 15%;
+    display: flex;
+    justify-content: space-between;
 }
 
 .hero-section .hero-text {
