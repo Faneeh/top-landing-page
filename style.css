@@ -117,6 +117,9 @@ a:link {
     background-color: #E5E7EB;
     margin-top: -1%;
     display: flex;
+}
+
+.quote-section .quote {
     color: #1F2937;
     font-size: 36px;
     font-weight: lighter;
