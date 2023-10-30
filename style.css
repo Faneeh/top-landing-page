@@ -45,6 +45,11 @@ a:link {
     margin: 7% 15%;
 }
 
+.hero-section .hero-text {
+    display: grid;
+    width: 30%;
+}
+
 .hero-section .main {
     font-size: 48px;
     font-weight: bolder;
