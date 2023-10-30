@@ -28,6 +28,10 @@ body {
     color: #E5E7EB;
 }
 
+.nav-links a {
+    padding: 0 16px;
+}
+
 a {
     text-decoration: none;
 }
