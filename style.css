@@ -136,3 +136,8 @@ a:link {
     font-weight: bolder;
     color: #1F2937;
 }
+
+.banner-section {
+    width: 100%;
+    height: 30vh;
+}
